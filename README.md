@@ -13,4 +13,4 @@ English translation patch for Nintendo Switch version of `Select Oblige`. Based 
 
 # Credits
 - [pfs-rs](https://github.com/sakarie9/pfs-rs) - File extraction
-- [SORETL](https://github.com/momo-mods/SORETL/) - Creator of the Re-Translation patch.
+- [SORETL](https://github.com/momo-mods/SORETL/) - Re-Translation patch.
